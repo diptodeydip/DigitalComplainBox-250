@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/backgroundgradient">
+
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:ems="10"
+        android:hint="Email"
+        android:layout_gravity="center_horizontal"
+        android:inputType="textEmailAddress"
+        android:textColor="#000000"
+        android:drawableLeft="@drawable/customemaillogo"
+        android:textColorHint="#008B8B"
+        android:textSize="20dp" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textColor="#000000"
+        android:drawableLeft="@drawable/custompasslogo"
+        android:layout_gravity="center_horizontal"
+        android:textColorHint="#008B8B"
+        android:textSize="20dp" />
+
+
+    <Button
+        android:id="@+id/Reg"
+        style="@style/buttonstyle"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/design"
+        android:text="Register"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:id="@+id/backfromcreateuser"
+        style="@style/buttonstyle"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/design"
+        android:text="Back" />
+
+</LinearLayout>

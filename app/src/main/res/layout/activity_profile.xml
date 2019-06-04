@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/backgroundgradient">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textAlignment="center"
+            android:layout_margin="20dp"
+            android:text="Tap on the Camera to upload image of Your Student Id"
+            android:textColor="#ffffff"
+            android:textSize="13dp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="181dp">
+
+            <ImageView
+                android:id="@+id/ivprofilepic"
+                android:layout_width="167dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/cam" />
+
+            <ProgressBar
+                android:id="@+id/pbar2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:visibility="gone" />
+
+        </RelativeLayout>
+
+        <EditText
+            android:id="@+id/regNo"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:ems="10"
+            android:textColorHint="#008B8B"
+            android:textColor="#000000"
+            android:hint="Registration No"
+            android:inputType="textPersonName" />
+        <EditText
+            android:id="@+id/deptnamme"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:ems="10"
+            android:textColor="#000000"
+            android:hint="Department"
+            android:textColorHint="#008B8B"
+            android:inputType="textPersonName" />
+
+        <Button
+            android:id="@+id/saveinfo"
+            style="@style/buttonstyle"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/design"
+            android:text="Save"
+            />
+        <Button
+            android:id="@+id/Logoutfromprofileactivity"
+            style="@style/buttonstyle"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/design"
+            android:text="Logout"
+            />
+
+    </LinearLayout>
+
+</FrameLayout>

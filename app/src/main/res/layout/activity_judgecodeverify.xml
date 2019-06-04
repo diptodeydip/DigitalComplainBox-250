@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundgradient"
+    android:orientation="vertical">
+
+    <Spinner
+        android:id="@+id/spinnner3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp">
+    </Spinner>
+
+    <EditText
+        android:id="@+id/code"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:textColor="#000000"
+        android:ems="10"
+        android:textColorHint="#008B8B"
+        android:hint="Code"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/enter"
+        style="@style/buttonstyle"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/design"
+        android:text="Enter" />
+
+
+</LinearLayout>

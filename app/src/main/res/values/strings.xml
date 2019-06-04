@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">DCB</string>
+
+    <string-array name="items">
+        <item>Select Category</item>
+        <item>Mismanagement</item>
+        <item>Harrasment</item>
+        <item>TransportationSystem</item>
+        <item>WaterProblem(Hall)</item>
+        <item>WaterProblem(Departmental Buildings)</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="depts">
+        <item>Select Authority</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>SWE</item>
+        <item>Register-Office</item>
+        <item>ProctorialBody</item>
+        <item>Admission Committee</item>
+        <item>Bank Committee</item>
+    </string-array>
+
+
+    <string-array name="Jurisdiction">
+        <item>Select Your Jurisdiction</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>SWE</item>
+        <item>Register-Office</item>
+        <item>ProctorialBody</item>
+        <item>Admission Committee</item>
+        <item>Bank Committee</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>

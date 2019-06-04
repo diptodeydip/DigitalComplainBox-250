@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".resetpass"
+    android:background="@drawable/backgroundgradient">
+
+    <EditText
+        android:id="@+id/resetfield"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginTop="100dp"
+        android:textSize="20dp"
+        android:hint="Email"
+        android:textColorHint="#008B8B"/>
+    <Button
+        android:id="@+id/reset"
+        style="@style/buttonstyle"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/design"
+        android:text="Reset Password"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

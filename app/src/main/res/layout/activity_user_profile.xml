@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/backgroundgradient">
+
+    <FrameLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:layout_gravity="center_horizontal"
+        android:padding="4dp">
+    <RelativeLayout
+            android:layout_width="140dp"
+            android:layout_height="120dp"
+            android:layout_gravity="center"
+            >
+
+            <ImageView
+                android:id="@+id/userprofilepic"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/cam"
+                android:scaleType="fitXY" />
+
+        </RelativeLayout>
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Hello x"
+        android:textColor="#000000"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/notific"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text=""
+        android:visibility="gone"
+        android:textColor="#0000FF"
+        android:textSize="10dp" />
+    <TextView
+        android:id="@+id/notific1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text=""
+        android:visibility="gone"
+        android:textColor="#0000FF"
+        android:textSize="10dp" />
+
+    <TextView
+        android:id="@+id/notific2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text=""
+        android:visibility="gone"
+        android:textColor="#FF0000"
+        android:textSize="10dp" />
+
+
+    <Button
+        android:id="@+id/clrnoti"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textSize="10dp"
+        android:layout_gravity="end"
+        android:visibility="gone"
+        android:textAllCaps="false"
+        android:text="Clear Notification" />
+
+        <Button
+            android:id="@+id/submitproblem"
+            style="@style/buttonstyle"
+            android:layout_gravity="center"
+            android:layout_marginTop="90dp"
+            android:background="@drawable/design"
+            android:text="Submit  Problem" />
+
+        <Button
+            android:id="@+id/listofproblem"
+            style="@style/buttonstyle"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/design"
+            android:text="My Problem List"  />
+    <Button
+        android:id="@+id/forum"
+        style="@style/buttonstyle"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/design"
+        android:text="Forum"  />
+
+    <Button
+        android:id="@+id/Logout"
+        style="@style/buttonstyle"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/design"
+        android:textColor="#ff0000"
+        android:text="Logout" />
+
+</LinearLayout>
