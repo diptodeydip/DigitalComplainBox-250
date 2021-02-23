@@ -1,0 +1,277 @@
+{
+  "Inqueuecount" : {
+    "Fs5zdbFzlqQU1J4yF1Ct7leFVse2" : {
+      "1564125295697" : {
+        "mCount" : "1"
+      }
+    },
+    "pkDFyC2oBHMpnt7wwUgzfmgog4l1" : {
+      "1547103556083" : {
+        "mCount" : "1"
+      },
+      "1547201928105" : {
+        "mCount" : "1"
+      },
+      "1564125315568" : {
+        "mCount" : "1"
+      }
+    }
+  },
+  "Users" : {
+    "1546871983545" : {
+      "email" : "dipdey093@gmail.com"
+    },
+    "1546872792980" : {
+      "email" : "psdey11@gmail.com"
+    },
+    "1546927299573" : {
+      "email" : "zubairahmedrafi37@gmail.com"
+    },
+    "1549427018798" : {
+      "email" : "tanvirhossaininfinity@gmail.com"
+    },
+    "1569086537907" : {
+      "email" : "bsbijoy2050@gmail.com"
+    },
+    "Fs5zdbFzlqQU1J4yF1Ct7leFVse2" : {
+      "Name" : "2016331072",
+      "uid" : "Fs5zdbFzlqQU1J4yF1Ct7leFVse2"
+    },
+    "cLdbf6FXwFZ3Icu6BatUcwStVvk2" : {
+      "Name" : "2013235013",
+      "uid" : "cLdbf6FXwFZ3Icu6BatUcwStVvk2"
+    },
+    "pkDFyC2oBHMpnt7wwUgzfmgog4l1" : {
+      "Name" : "2016331037",
+      "uid" : "pkDFyC2oBHMpnt7wwUgzfmgog4l1"
+    }
+  },
+  "admin" : {
+    "password" : {
+      "Admission Committee" : "6",
+      "Bank Committee" : "7",
+      "CSE" : "1",
+      "EEE" : "2",
+      "ProctorialBody" : "5",
+      "Register-Office" : "4",
+      "SWE" : "3"
+    }
+  },
+  "forum" : {
+    "1547075989270" : {
+      "des" : "Check",
+      "details" : "05:19:49 AM \n10-Jan-2019 \nBy- 2016331072(cse)",
+      "imageURL" : "none"
+    },
+    "1547075993046" : {
+      "des" : "Ok",
+      "details" : "05:19:52 AM \n10-Jan-2019 \nBy- 2016331072(cse)",
+      "imageURL" : "none"
+    },
+    "1547076002448" : {
+      "des" : "Done",
+      "details" : "05:20:02 AM \n10-Jan-2019 \nBy- 2016331072(cse)",
+      "imageURL" : "none"
+    },
+    "1547076017895" : {
+      "des" : "pic",
+      "details" : "05:20:13 AM \n10-Jan-2019 \nBy- 2016331072(cse)",
+      "imageURL" : "https://firebasestorage.googleapis.com/v0/b/digitalcomplainbox.appspot.com/o/forum%2FFs5zdbFzlqQU1J4yF1Ct7leFVse2%2F1547076014038.jpg?alt=media&token=6f32073a-0cc8-43aa-a851-b5e4655004fa"
+    },
+    "1549566418580" : {
+      "des" : "hi",
+      "details" : "01:06:58 AM \n08-Feb-2019 \nBy- 2016331072(cse)",
+      "imageURL" : "none"
+    }
+  },
+  "solvecount" : {
+    "Fs5zdbFzlqQU1J4yF1Ct7leFVse2" : {
+      "1570688480406" : {
+        "mCount" : "1"
+      }
+    },
+    "pkDFyC2oBHMpnt7wwUgzfmgog4l1" : {
+      "1547103615656" : {
+        "mCount" : "1"
+      },
+      "1547103763574" : {
+        "mCount" : "1"
+      },
+      "1547201932096" : {
+        "mCount" : "1"
+      }
+    }
+  },
+  "solved" : {
+    "1547076100990" : {
+      "cat" : "Mismanagement",
+      "date" : "10-Jan-2019",
+      "dept" : "CSE",
+      "des" : "B",
+      "id" : "Fs5zdbFzlqQU1J4yF1Ct7leFVse2",
+      "imageUrl" : "none",
+      "key" : "1547076033988",
+      "name" : "2016331072(cse)",
+      "status" : "solved",
+      "time" : "05:20:33 AM"
+    },
+    "1547103615661" : {
+      "cat" : "Mismanagement",
+      "date" : "10-Jan-2019",
+      "dept" : "ProctorialBody",
+      "des" : "ragi",
+      "id" : "pkDFyC2oBHMpnt7wwUgzfmgog4l1",
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/digitalcomplainbox.appspot.com/o/uploads%2FpkDFyC2oBHMpnt7wwUgzfmgog4l1%2F1547103338367.png?alt=media&token=e7a91029-c852-4255-8e3a-2566b3aa35ac",
+      "key" : "1547103556088",
+      "name" : "2016331037(cse)",
+      "status" : "solved",
+      "time" : "12:55:38 pm"
+    },
+    "1547103763578" : {
+      "cat" : "Harrasment",
+      "date" : "10-Jan-2019",
+      "dept" : "ProctorialBody",
+      "des" : "I am a new year student and facing ragging from seniors.",
+      "id" : "pkDFyC2oBHMpnt7wwUgzfmgog4l1",
+      "imageUrl" : "none",
+      "key" : "1547103718712",
+      "name" : "2016331037(cse)",
+      "status" : "solved",
+      "time" : "01:01:58 pm"
+    },
+    "1547201932100" : {
+      "cat" : "TransportationSystem",
+      "date" : "10-Jan-2019",
+      "dept" : "ProctorialBody",
+      "des" : "zizkx",
+      "id" : "pkDFyC2oBHMpnt7wwUgzfmgog4l1",
+      "imageUrl" : "none",
+      "key" : "1547201928108",
+      "name" : "2016331037(cse)",
+      "status" : "solved",
+      "time" : "12:56:45 pm"
+    },
+    "1570688480410" : {
+      "cat" : "Mismanagement",
+      "date" : "10-Jan-2019",
+      "dept" : "CSE",
+      "des" : "C",
+      "id" : "Fs5zdbFzlqQU1J4yF1Ct7leFVse2",
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/digitalcomplainbox.appspot.com/o/uploads%2FFs5zdbFzlqQU1J4yF1Ct7leFVse2%2F1547095271626.jpg?alt=media&token=3024dc6f-2740-4886-b5af-7fd1a433bf9b",
+      "key" : "1547095313112",
+      "name" : "2016331072(cse)",
+      "status" : "solved",
+      "time" : "10:41:11 AM"
+    }
+  },
+  "uploads" : {
+    "1547076095417" : {
+      "cat" : "Mismanagement",
+      "date" : "10-Jan-2019",
+      "dept" : "CSE",
+      "des" : "C",
+      "id" : "Fs5zdbFzlqQU1J4yF1Ct7leFVse2",
+      "imageUrl" : "none",
+      "key" : "1547076044880",
+      "name" : "2016331072(cse)",
+      "status" : "Ignored",
+      "time" : "05:20:44 AM"
+    },
+    "1547076100986" : {
+      "cat" : "Mismanagement",
+      "date" : "10-Jan-2019",
+      "dept" : "CSE",
+      "des" : "B",
+      "id" : "Fs5zdbFzlqQU1J4yF1Ct7leFVse2",
+      "imageUrl" : "none",
+      "key" : "1547076033988",
+      "name" : "2016331072(cse)",
+      "status" : "solved",
+      "time" : "05:20:33 AM"
+    },
+    "1547076159039" : {
+      "cat" : "Mismanagement",
+      "date" : "10-Jan-2019",
+      "dept" : "CSE",
+      "des" : "A",
+      "id" : "Fs5zdbFzlqQU1J4yF1Ct7leFVse2",
+      "imageUrl" : "none",
+      "key" : "1547075924661",
+      "name" : "2016331072(cse)",
+      "status" : "In Progress",
+      "time" : "05:18:44 AM"
+    },
+    "1547103615658" : {
+      "cat" : "Mismanagement",
+      "date" : "10-Jan-2019",
+      "dept" : "ProctorialBody",
+      "des" : "ragi",
+      "id" : "pkDFyC2oBHMpnt7wwUgzfmgog4l1",
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/digitalcomplainbox.appspot.com/o/uploads%2FpkDFyC2oBHMpnt7wwUgzfmgog4l1%2F1547103338367.png?alt=media&token=e7a91029-c852-4255-8e3a-2566b3aa35ac",
+      "key" : "1547103556088",
+      "name" : "2016331037(cse)",
+      "status" : "solved",
+      "time" : "12:55:38 pm"
+    },
+    "1547103763576" : {
+      "cat" : "Harrasment",
+      "date" : "10-Jan-2019",
+      "dept" : "ProctorialBody",
+      "des" : "I am a new year student and facing ragging from seniors.",
+      "id" : "pkDFyC2oBHMpnt7wwUgzfmgog4l1",
+      "imageUrl" : "none",
+      "key" : "1547103718712",
+      "name" : "2016331037(cse)",
+      "status" : "solved",
+      "time" : "01:01:58 pm"
+    },
+    "1547201932097" : {
+      "cat" : "TransportationSystem",
+      "date" : "10-Jan-2019",
+      "dept" : "ProctorialBody",
+      "des" : "zizkx",
+      "id" : "pkDFyC2oBHMpnt7wwUgzfmgog4l1",
+      "imageUrl" : "none",
+      "key" : "1547201928108",
+      "name" : "2016331037(cse)",
+      "status" : "solved",
+      "time" : "12:56:45 pm"
+    },
+    "1564125295706" : {
+      "cat" : "Mismanagement",
+      "date" : "10-Jan-2019",
+      "dept" : "CSE",
+      "des" : "D",
+      "id" : "Fs5zdbFzlqQU1J4yF1Ct7leFVse2",
+      "imageUrl" : "none",
+      "key" : "1547102641186",
+      "name" : "2016331072(cse)",
+      "status" : "In Progress",
+      "time" : "12:44:01 PM"
+    },
+    "1564125315569" : {
+      "cat" : "Mismanagement",
+      "date" : "05-Feb-2019",
+      "dept" : "CSE",
+      "des" : "chudir vai",
+      "id" : "pkDFyC2oBHMpnt7wwUgzfmgog4l1",
+      "imageUrl" : "none",
+      "key" : "1549304474867",
+      "name" : "2016331037(cse)",
+      "status" : "In Progress",
+      "time" : "12:21:14 am"
+    },
+    "1570688480409" : {
+      "cat" : "Mismanagement",
+      "date" : "10-Jan-2019",
+      "dept" : "CSE",
+      "des" : "C",
+      "id" : "Fs5zdbFzlqQU1J4yF1Ct7leFVse2",
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/digitalcomplainbox.appspot.com/o/uploads%2FFs5zdbFzlqQU1J4yF1Ct7leFVse2%2F1547095271626.jpg?alt=media&token=3024dc6f-2740-4886-b5af-7fd1a433bf9b",
+      "key" : "1547095313112",
+      "name" : "2016331072(cse)",
+      "status" : "solved",
+      "time" : "10:41:11 AM"
+    }
+  }
+}
