@@ -18,7 +18,7 @@ normal users have to create account using their email and have to verify their e
 Judges are given passwords for their respective fields to see respective complaints .
 Example-password for cse department’s judge is “1”.
 
-**Some SS from Our Chat App:**
+**Some SS from DigitalComplainBox:**
 
 <img src="photos/1.jpg" width=400px height=700px title="Click to enlarge picture"/> <img src="photos/2.jpg" width=400px height=700px title="Click to enlarge picture"/>
 <img src="photos/3.jpg" width=400px height=700px title="Click to enlarge picture"/> <img src="photos/4.jpg" width=400px height=700px title="Click to enlarge picture"/>
