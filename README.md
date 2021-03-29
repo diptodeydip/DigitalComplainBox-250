@@ -7,7 +7,7 @@
 It was developed as a Projectwork for Project 250 (2/2)
 
 ## About App
-Using this app one can complain about any kind of mismanagement/harrasment etc
+Using this app one can complain about any kind of mismanagement/harassment etc
 directly to respective authorities. Then authorities can take proper steps to resolve 
 the problem and can give update about the complaint to the complainant.
 
